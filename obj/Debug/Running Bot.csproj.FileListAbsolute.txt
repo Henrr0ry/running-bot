@@ -1,0 +1,10 @@
+C:\Users\redca\source\repos\Running Bot\bin\Debug\Running Bot.exe.config
+C:\Users\redca\source\repos\Running Bot\bin\Debug\Running Bot.exe
+C:\Users\redca\source\repos\Running Bot\bin\Debug\Running Bot.pdb
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running_Bot.Properties.Resources.resources
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running Bot.csproj.GenerateResource.cache
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running Bot.csproj.CoreCompileInputs.cache
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running Bot.exe
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running Bot.pdb
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running_Bot.PlayGround.resources
+C:\Users\redca\source\repos\Running Bot\obj\Debug\Running Bot.csproj.AssemblyReference.cache
